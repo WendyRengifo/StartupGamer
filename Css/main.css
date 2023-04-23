@@ -42,7 +42,7 @@ main .main-container-principal .container-principal-img .img-container1{
     height: 300px;
     margin-left: 90px;
     margin-top: 140px;
-    background-image: url("/Assets/Img/caja2.png");
+    background-image: url("./Assets/Img/caja2.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -54,7 +54,7 @@ main .main-container-principal .container-principal-img .img-container2{
     height: 300px;
     margin-top: -389px;
     margin-left: -9px;
-    background-image: url("/Assets/Img/caja1.png");
+    background-image: url("./Assets/Img/caja1.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -134,7 +134,7 @@ main .main-container-segundario .container-segundario__box1 .box1-circulo1{
     margin-top: -70px;
     margin-left: 50px;
     overflow: hidden;
-    background-image: url("/Assets/Img/2.jpg");
+    background-image: url("./Assets/Img/2.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     background-color: black;
@@ -169,7 +169,7 @@ main .main-container-segundario .container-segundario__box2 .box2-circulo2{
     border-radius: 100px;
     margin-top: -70px;
     margin-left: 50px;
-    background-image: url("/Assets/Img/3.jpg");
+    background-image: url("./Assets/Img/3.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     background-color: black;
@@ -199,7 +199,7 @@ main .main-container-segundario .container-segundario__box3 .box3-circulo3{
     border-radius: 100px;
     margin-top: -70px;
     margin-left: 50px;
-    background-image: url("/Assets/Img/4.jpg");
+    background-image: url("./Assets/Img/4.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-color: black;
@@ -266,7 +266,7 @@ main .main-container-tres .container-tres__box1 .box1__img{
     width: 300px;
     height: 300px;
     margin-top: 80px;
-    background-image: url("/Assets/Img/caja2.png");
+    background-image: url("./Assets/Img/caja2.png");
 }
 
 main .container-tres__box1 img{
@@ -345,7 +345,7 @@ main .main-container-cuatro .container-cuatro-boxs .container-cuatro-box3{
 
 main .main-container-cuatro .container-cuatro-boxs .container-cuatro-box1{
     margin-top: 39px;
-    background-image: url("/Assets/Img/6.jpg");
+    background-image: url("./Assets/Img/6.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
@@ -353,7 +353,7 @@ main .main-container-cuatro .container-cuatro-boxs .container-cuatro-box1{
 
 main .main-container-cuatro .container-cuatro-boxs .container-cuatro-box2{
     margin-top: 50px;
-    background-image: url("/Assets/Img/7.jpg");
+    background-image: url("./Assets/Img/7.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
@@ -361,7 +361,7 @@ main .main-container-cuatro .container-cuatro-boxs .container-cuatro-box2{
 
 main .main-container-cuatro .container-cuatro-boxs .container-cuatro-box3{
     margin-top: 50px;
-    background-image: url("/Assets/Img/8.jpg");
+    background-image: url("./Assets/Img/8.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
@@ -456,7 +456,7 @@ main .main-footer img{
         height: 300px;
         margin-left: 94px;
         margin-top: 110px;
-        background-image: url("/Assets/Img/caja2.png");
+        background-image: url("./Assets/Img/caja2.png");
         background-size: contain;
         background-repeat: no-repeat;
     }
@@ -467,7 +467,7 @@ main .main-footer img{
         height: 300px;
         margin-left: 21px;
         margin-top: -354px;
-        background-image: url("/Assets/Img/caja1.png");
+        background-image: url("./Assets/Img/caja1.png");
         background-size: contain;
         background-repeat: no-repeat;
     }
@@ -544,7 +544,7 @@ main .main-footer img{
         margin-top: -70px;
         margin-left: 10px;
         overflow: hidden;
-        background-image: url("/Assets/Img/2.jpg");
+        background-image: url("./Assets/Img/2.jpg");
         background-size: contain;
         background-repeat: no-repeat;
         background-color: black;
@@ -562,7 +562,7 @@ main .main-footer img{
         border-radius: 100px;
         margin-top: -70px;
         margin-left: 10px;
-        background-image: url("/Assets/Img/3.jpg");
+        background-image: url("./Assets/Img/3.jpg");
         background-size: contain;
         background-repeat: no-repeat;
         background-color: black;
@@ -581,7 +581,7 @@ main .main-footer img{
         border-radius: 100px;
         margin-top: -70px;
         margin-left: 10px;
-        background-image: url("/Assets/Img/4.jpg");
+        background-image: url("./Assets/Img/4.jpg");
         background-size: cover;
         background-repeat: no-repeat;
         background-color: black;
@@ -639,14 +639,14 @@ main .main-footer img{
     main .main-container-cuatro .container-cuatro-boxs .container-cuatro-box1{
         margin-top: 92px;
         margin-right: 20px;
-        background-image: url("/Assets/Img/6.jpg");
+        background-image: url("./Assets/Img/6.jpg");
         background-size: contain;
         background-repeat: no-repeat;
     }
 
     main .main-container-cuatro .container-cuatro-boxs .container-cuatro-box2{
         margin-top: -147px;
-        background-image: url("/Assets/Img/7.jpg");
+        background-image: url("./Assets/Img/7.jpg");
         background-size: contain;
         background-repeat: no-repeat;
     }
@@ -654,7 +654,7 @@ main .main-footer img{
     main .main-container-cuatro .container-cuatro-boxs .container-cuatro-box3{
         margin-top: 92px;
         margin-left: 20px;
-        background-image: url("/Assets/Img/8.jpg");
+        background-image: url("./Assets/Img/8.jpg");
         background-size: contain;
         background-repeat: no-repeat;
     }
